@@ -1,0 +1,8 @@
+numpy
+sounddevice
+soundfile
+scipy
+edge-tts
+groq
+faster-whisper
+python-docx
